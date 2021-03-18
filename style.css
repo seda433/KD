@@ -19,7 +19,7 @@ body {
   padding: 0;
 }
 header {
-    background-image: url(img/bg3.png);
+    background-image: url(bg3.png);
     background-repeat: no-repeat;
     background-color: black;
     background-size: cover;
