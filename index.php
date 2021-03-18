@@ -88,7 +88,7 @@ if (!isset($_POST['title'])) {
                   </div>
             </div>
             <div class="col-md-7 col-sm-12  h-25">
-              <img src="img/main_image.png" alt="Book" />
+              <img src="main_image.png" alt="Book" />
             </div>
           </div>
         </div>
